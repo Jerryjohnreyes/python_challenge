@@ -51,7 +51,7 @@ list2 = [
         f"{listed_values[0][max_min_values[3]]} (${max_min_values[2]})"
         ]
 print("Finacial Analysis")
-print("__________________________________")
+print("-------------------------------------")
 for i in range(len(list1)):
     print(list1[i] + list2[i])
 
